@@ -1,10 +1,10 @@
 import React from 'react'
-import { Button } from './components/ui/button'
+import Creators from './pages/Creators'
 
 const App = () => {
   return (
     <div>
-      <Button>Hello</Button>
+      <Creators/>
     </div>
   )
 }
