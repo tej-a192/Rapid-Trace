@@ -2,7 +2,7 @@ import pavan from './pavan.jpg'
 import jahnavi from './jahnavi.jpg'
 import baby from './baby.JPG?url'
 import murali from './murali.jpg'
-
+import ravi from './Ravi.jpg'
 export const teamMembers = [
     {
         Name: "JAHNAVI ADABALA",
@@ -37,13 +37,11 @@ export const teamMembers = [
         Image: baby
     },
     {
-        Name: "BUGGAL BHAI",
-        About: "We are a team of <b>five</b> dedicated individuals who came together to create RapidTrace, ",
-        Linkedin: "alsdnk",
-        Portfolio: "cdsn",
-        Mail: "cdnskg",
-        Image: pavan
+        Name: "RAVINDRA SIRAPARAPU",
+        About: "Hi, I am Ravindra Siraparapu, a web developer and a B.Tech student in Computer Science and Engineering. I am passionate about programming, web development, and working with the latest technologies like Python, JavaScript, ReactJS, and more.",
+        Linkedin: "https://www.linkedin.com/in/ravindra-siraparapu-1a7758280/",
+        Portfolio: "",
+        Mail: "mailto:raveendra.siraparapu@sasi.ac.in",
+        Image: ravi
     },
-   
-    
 ]

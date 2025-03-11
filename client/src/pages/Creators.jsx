@@ -12,7 +12,7 @@ import {
 
 const Creators = () => {
   return (
-    <div className='flex flex-col justify-center items-center mx-1 md:mx-4 lg:mx-6 my-6 space-y-3 md:space-y-6'>
+    <div className='dark flex flex-col justify-center items-center mx-1 md:mx-4 lg:mx-6 my-6 space-y-3 md:space-y-6'>
       <h1 className='text-blue-500 text-lg md:text-4xl lg:text-5xl font-bold'>
         Meet the Minds Behind RapidTrace
       </h1>
